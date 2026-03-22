@@ -1,7 +1,15 @@
 # Pure Link
-Clean your URLs instantly. Remove tracking parameters and messy strings to get a "pure" link for sharing.
+Remove tracking parameters from URLs. Share clean links only.
 
-### 🛠 Fridge Combo Standard
-* **Instant Cleaning**: Automatically strips tracking junk from your clipboard links.
-* **Minimalist UI**: White background, black buttons, 15px rounded corners.
-* **Privacy First**: No login, No tracking, No ads. Processed entirely in your browser.
+## Philosophy
+* **1 Tool, 1 Action.**
+* **No Login / No Ads / No Tracking**
+* **Browser-only Privacy**
+
+## How to Use
+1. Paste a long URL with tracking junk.
+2. Get a "Pure Link" to share.
+
+---
+No login / No tracking / No ads / Browser only Privacy Policy  
+**afrorakda © 2026**
